@@ -9,4 +9,8 @@ then type "sudo crontab -e" <br />
 after all the hashes type: "@reboot python /bin/call_at_boot.py &" <br />
 ---
 
+
+restart
+--
 & is necessary
+
